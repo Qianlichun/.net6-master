@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Project.QLC.Framework.WebAPI.props" />
+</Project>

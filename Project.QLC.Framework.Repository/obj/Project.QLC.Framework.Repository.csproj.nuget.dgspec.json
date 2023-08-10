@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Repository\\Project.QLC.Framework.Repository.csproj": {}
+  },
+  "projects": {
+    "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\Project.QLC.Framework.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\Project.QLC.Framework.Common.csproj",
+        "projectName": "Project.QLC.Framework.Common",
+        "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\Project.QLC.Framework.Common.csproj",
+        "packagesPath": "C:\\Users\\14649\\.nuget\\packages\\",
+        "outputPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\14649\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\xinghe_project\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj": {
+                "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj",
+        "projectName": "Project.QLC.Framework.Model",
+        "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj",
+        "packagesPath": "C:\\Users\\14649\\.nuget\\packages\\",
+        "outputPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\14649\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\xinghe_project\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.93, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Repository\\Project.QLC.Framework.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Repository\\Project.QLC.Framework.Repository.csproj",
+        "projectName": "Project.QLC.Framework.Repository",
+        "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Repository\\Project.QLC.Framework.Repository.csproj",
+        "packagesPath": "C:\\Users\\14649\\.nuget\\packages\\",
+        "outputPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\14649\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\xinghe_project\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\Project.QLC.Framework.Common.csproj": {
+                "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Common\\Project.QLC.Framework.Common.csproj"
+              },
+              "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj": {
+                "projectPath": "E:\\MyDontProject\\WebApiTest1\\QLCWebAPI\\Project.QLC.Framework.Model\\Project.QLC.Framework.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

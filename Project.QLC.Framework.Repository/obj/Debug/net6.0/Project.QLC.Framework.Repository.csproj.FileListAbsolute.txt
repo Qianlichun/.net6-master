@@ -1,0 +1,17 @@
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Repository.deps.json
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Repository.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Repository.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Common.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Model.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Common.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\bin\Debug\net6.0\Project.QLC.Framework.Model.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.csproj.AssemblyReference.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.AssemblyInfoInputs.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.AssemblyInfo.cs
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.csproj.CoreCompileInputs.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.csproj.CopyComplete
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\refint\Project.QLC.Framework.Repository.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\Project.QLC.Framework.Repository.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Repository\obj\Debug\net6.0\ref\Project.QLC.Framework.Repository.dll

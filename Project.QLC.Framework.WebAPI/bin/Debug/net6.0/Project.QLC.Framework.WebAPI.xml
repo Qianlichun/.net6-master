@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Project.QLC.Framework.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Project.QLC.Framework.WebAPI.Controllers.BaseController">
+            <summary>
+            方法名称：BaseController
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 15:40:38
+            </summary>
+        </member>
+        <member name="M:Project.QLC.Framework.WebAPI.Controllers.BaseController.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            执行时操作
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Extension.ApiVersionExtension">
+            <summary>
+            方法名称：ApiVersionExtension
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 10:53:38
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Extension.JwtExtension">
+            <summary>
+            方法名称：JwtExtension
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 13:53:00
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Extension.NlogExtension">
+            <summary>
+            方法名称：NlogExtension
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/4 13:59:31
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Extension.SwaggerExtension">
+            <summary>
+            方法名称：SwaggerExtension
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 10:31:54
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Filter.FileUploadFilter">
+            <summary>
+            方法名称：FileUploadFilter
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 10:33:39
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Register.AutofaceExtension">
+            <summary>
+            方法名称：AutofaceExtension
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/2 9:31:49
+            </summary>
+        </member>
+        <member name="T:Project.QLC.Framework.WebAPI.Register.SeriLogRegister">
+            <summary>
+            方法名称：SeriLogRegister
+            创 建 人：qianxiaoxiao
+            创建时间：2023/8/10 16:25:28
+            </summary>
+        </member>
+    </members>
+</doc>

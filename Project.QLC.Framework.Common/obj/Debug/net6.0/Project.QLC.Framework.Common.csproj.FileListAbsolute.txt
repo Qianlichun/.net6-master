@@ -1,0 +1,15 @@
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\bin\Debug\net6.0\Project.QLC.Framework.Common.deps.json
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\bin\Debug\net6.0\Project.QLC.Framework.Common.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\bin\Debug\net6.0\Project.QLC.Framework.Common.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\bin\Debug\net6.0\Project.QLC.Framework.Model.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\bin\Debug\net6.0\Project.QLC.Framework.Model.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.csproj.AssemblyReference.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.AssemblyInfoInputs.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.AssemblyInfo.cs
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.csproj.CoreCompileInputs.cache
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.csproj.CopyComplete
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\refint\Project.QLC.Framework.Common.dll
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\Project.QLC.Framework.Common.pdb
+E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.Common\obj\Debug\net6.0\ref\Project.QLC.Framework.Common.dll

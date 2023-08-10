@@ -1,0 +1,25 @@
+2023-08-10 16:40:02.073 +08:00 [INF] User profile is available. Using 'C:\Users\14649\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-08-10 16:40:02.289 +08:00 [INF] Now listening on: https://localhost:5001
+2023-08-10 16:40:02.291 +08:00 [INF] Now listening on: http://localhost:5000
+2023-08-10 16:40:02.295 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-08-10 16:40:02.297 +08:00 [INF] Hosting environment: Production
+2023-08-10 16:40:02.298 +08:00 [INF] Content root path: E:\MyDontProject\WebApiTest1\QLCWebAPI\Project.QLC.Framework.WebAPI\
+2023-08-10 16:40:09.748 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/TbUser/GetUser - 0
+2023-08-10 16:40:09.862 +08:00 [INF] CORS policy execution successful.
+2023-08-10 16:40:09.879 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/TbUser/GetUser - 0 - 307 0 - 133.7000ms
+2023-08-10 16:40:09.926 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5001/api/TbUser/GetUser - 0
+2023-08-10 16:40:09.929 +08:00 [INF] CORS policy execution successful.
+2023-08-10 16:40:09.987 +08:00 [INF] Executing endpoint 'Project.QLC.Framework.WebAPI.Controllers.TbUserController.GetUser (Project.QLC.Framework.WebAPI)'
+2023-08-10 16:40:10.003 +08:00 [INF] Route matched with {action = "GetUser", controller = "TbUser"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUser() on controller Project.QLC.Framework.WebAPI.Controllers.TbUserController (Project.QLC.Framework.WebAPI).
+2023-08-10 16:40:10.022 +08:00 [INF] NLog-loginfomation
+2023-08-10 16:40:10.024 +08:00 [WRN] NLog-LogWarning
+2023-08-10 16:40:10.025 +08:00 [ERR] NLog-LogError
+2023-08-10 16:40:10.116 +08:00 [INF] Sql语句:
+[Sql]:SELECT `ID`,`PHONE`,`PASSWORD`,`NICK_NAME` FROM `TB_USER`  WHERE `ID` = @InPara0    
+[Pars]:
+[Name]:@InPara0 [Value]:1 [Type]:Int32    
+
+2023-08-10 16:40:10.666 +08:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2023-08-10 16:40:10.683 +08:00 [INF] Executed action Project.QLC.Framework.WebAPI.Controllers.TbUserController.GetUser (Project.QLC.Framework.WebAPI) in 670.9489ms
+2023-08-10 16:40:10.690 +08:00 [INF] Executed endpoint 'Project.QLC.Framework.WebAPI.Controllers.TbUserController.GetUser (Project.QLC.Framework.WebAPI)'
+2023-08-10 16:40:10.708 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5001/api/TbUser/GetUser - 0 - 200 0 - 782.0226ms
